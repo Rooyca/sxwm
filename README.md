@@ -277,6 +277,12 @@ yay -S sxwm
 yay -S sxwm-git
 ```
 
+### Void Linux
+
+```sh
+xbps-install sxwm
+```
+
 ### Build from Source
 
 ```sh
